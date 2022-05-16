@@ -1,0 +1,10 @@
+80,Number of packages
+8,Number of hours
+7.01281270582972e-5,EV cost (USD/meter)
+0.00013657895795669023,CNG cost (USD/meter)
+0.00023197915501592785,Class 6 cost (USD/meter)
+100,Number of vehicles
+5,Number of hybrid vehicles
+53108.219999999994,EV range (meter)
+False,Pure EV
+240,Package drop time (seconds)
